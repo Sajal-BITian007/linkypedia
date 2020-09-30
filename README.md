@@ -1,6 +1,6 @@
 linkypedia
 ==========
-
+#Don't change anything until you are 100% sure
 linkypedia is a webapp for seeing how 3rd party web content is being used on 
 wikipedia.
 
